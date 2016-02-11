@@ -1,0 +1,7 @@
+/.idea
+.project
+
+/target
+.classpath
+com.qoobico.remindme.server.iml
+remindme.server.iml
